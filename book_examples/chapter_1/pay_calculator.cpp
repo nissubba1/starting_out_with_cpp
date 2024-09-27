@@ -21,5 +21,13 @@ int main() {
     // display the pay
     cout << "You have earned $" << pay << endl;
 
+    cout << "Hi! It\'s me.\n";
+    cout << "I\'m learning to program!\n";
+    /* Hi! It's me
+     *
+     *I'm learning to program!
+     *
+     */
+
     return 0;
 }
